@@ -1,2 +1,3 @@
-this is a text file
-it will create conflict
+this is a text file 
+it will resolve conflict
+
